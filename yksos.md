@@ -1,3 +1,9 @@
+#### 地址
+  * [本地](http://www.lrh.com:9527)
+  * [本地手机](http://www.lrh.com:9527/mobile)
+  * [测试](https://ykosdev.sm0759.com/)
+
+
 #### 2019-3-21  积分记录的添加和获取，积分设置的修改和获取
 >Controllers/ScoreController.php
 >Requests/ScoreccfgRequest.php
