@@ -1,4 +1,4 @@
-**** 2019-3-21  积分记录的添加和获取，积分设置的修改和获取
+#### 2019-3-21  积分记录的添加和获取，积分设置的修改和获取
 >Controllers/ScoreController.php
 >Requests/ScoreccfgRequest.php
 >Resources/ScoreLogResource.php
@@ -16,4 +16,4 @@
 >score/index.vue
 >score/scorecfg.vue
 
-**** 2019-3-20 发票相关
+#### 2019-3-20 发票相关
